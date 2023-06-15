@@ -53,7 +53,8 @@ actions
         type    cellSet;
         action  subset;
         source  boxToCell;
-        box     (0.025 0.045 -100)(0.075 0.055 100);
+        //box     (0.025 0.045 -100)(0.075 0.055 100);
+        box     (0.045 0.025 -100)(0.055 0.075 100);
     }
 
     {
